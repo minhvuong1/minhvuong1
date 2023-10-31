@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Minh Vuong
+- 🌱 Working as a fullstack developer in Melbourne
+- 👨‍💻 My past projects on my Portfolio: [minhvuong.surge.sh](minhvuong.surge.sh)
+- 📫 How to reach me: https://no.linkedin.com/in/ademiralijagic
